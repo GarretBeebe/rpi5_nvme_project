@@ -14,7 +14,7 @@
 ```
     6.12.62+rpt-rpi-2712
 ```
-# simplified cmdline.txt pointing at nvme
+# Simplified cmdline.txt pointing at nvme
 ```    
     root=/dev/nvme0n1p1 rootfstype=ext4 rootwait rootdelay=20 fsck.repair=yes
 ```    
